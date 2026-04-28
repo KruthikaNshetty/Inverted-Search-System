@@ -33,5 +33,5 @@ This project implements an inverted indexing system that maps words to their cor
 - Memory management in C
 
 ## ▶️ How to Run
-- 1 gcc *.c -o search
-- 2 ./search file1.txt file2.txt
+-  gcc *.c -o search
+- ./search file1.txt file2.txt
